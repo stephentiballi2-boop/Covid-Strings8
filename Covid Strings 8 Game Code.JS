@@ -1,5 +1,5 @@
-<doc.type html>
-<script>
+doc.type html
+script
 filename=covid strings eight game code.js
 java.awt graphics 
 this.img=document.createelement(covid)
@@ -57,61 +57,73 @@ nextbutton add.actionlistener(this)
 public actionperformed(action event e) 
 system.out print.in (next button clicked)
 frame.add(next button);
-Frame Set Visible True
-Const Object {A:One, B:Two, C:Three, D:Four, E:Five, F:Six, G:Seven, H:Eight}
-Const Keys Object Keys(Team)
-Const Entries Object Entries(Obj);
-Const  Value =Object [Team Color]
-Covidstrings Team List EIGHT= [Blue,Pink,Red,Magenta,Orange,Black, Teal,Indigo]
-Covid Strings Phrase List EIGHT= [ Non-Concatenated,Covid Trackers Can Sometimes Use Peoples Personal Data Against Them
-When Using A Covid Tracker Safety Is One Option
-When It Comes To The Origins Of Covid Knowledge Is Power
-Given The New Flu-Like Virus Things May Change
-The Worst Case Scenario Could Happen
- Ba286 And HV And JN1 Can Also Cause Problems
- Mental Health Impacts Can Also Change
-You Dont Need WEB MD To Tell You Covid Fatigue Is Real
-Concatenated Strings
-If+You+Do+Have+It+Sleep+And+Relaxation+Are+Some+Strategies
-Any+Covid+Prescription+Is+Not+As+Good+As+A+Lexus+RX
-At+Least+It+Would+Make+You+Feel+A+Ok
-It+Would+Also+Be+Better+Than+Ivermectin+Or+Dietary+Supplements
-You+Can+Include+Colloidal+Silver+Too
-UV+Light+Should+Be+Safely+Eliminated+As+Any+Treatment
-It+Should+Be+Obvious+That+Bleach+Is+Similarly+Ineffective
-Bleach+Can+Be+Used+If+It+Is+Disenfected+On+Hard+Surfaces]
-COVID STRINGS EIGHT MULTIPLE CHOICE LIST=[ONE A Covid  B RSV C Spanish Flu D Santa, TWO A Wisely B Recklessly C Safety D Putting Money Under The Bed, THREE A Oranges B Spread C Origins D Beginning, FOUR A Sleep B Going Back To The Office C Leaving Out Milk And Cookies D Working Out, Five A Red Solo Cup B Acura CDX C Lexus RX D Genesis G Sixty,Six A The Delta Variant B HV And JN1 C Donald Trumps Covid Infection D State Capture, Seven A Mathematically B Safely C Totally D Not At All, Eight A Physical B Mental C Social D Covid, Nine A RSV B Flu C Ebola D Mythomagic, Ten A Drained B Disinfected C Sprayed D Twisted, Eleven A Web MD B Your Doctor C Donald Trump D A Mask Bonfire, Twelve A Pyrite  B Colloidal Sliver C Anthracite Coal D Alex Jones, Thirteen A Worst-Case B One Involving The Russian People Not Caring About Putin C No Magic Bullet D Elites Turning On Putin,
-Thirteen A Ivermectin B Ozempic C Narcolepsy D Ringworm,Fourteen A Woozy B A Ok Sentence C Right At Home D Trumps Mugshot, Fifteen A Third Party Spoiler B Way Of Barring Trump From Office C Solution To Help Ukraine D Taylor Swift Card,Sixteen A Pythagorean Theorem B Russias Lie Of Not Being Behind The Kakova Dam Explosion C Trumps Lies About A Rigged Election D Putins Luxury Yacht, Seventeen A Circulatory System B Reproductive System C Immune System D REM Sleep,
-Eighteen A Natural Immunity B A Hospital Stay C To Repeat Grades D Car Accident, Ninteen A Mildly B Strongly C Dont Care D Neutral,Twenty A Yes B No        ]
-Covid Strings EIGHT Math Problems List= [If A Poll Found That EIGHTY Percent Of Americans Believe They Get Enough Sleep To Prevent The Worst Effects Of Covid How Many Arent Sure?,If The Margin Of Error Is THREE AND FOURTY FOUR HUNDRETHS Percent What Is The Range?,If NINETY FIVE Percent Of Americans Find The Nine Month Effect To Be Somewhat Exaggerated How Many Dont?,If SIXTY ONE Percent Say It Is Mildly Exaggerated How Many Believe It Is Greatly Exaggerated?,If FIFTY EIGHT Percent Of The SIXTY ONE Percent Say That They Believe The Effect On The Body To Be Around SIX Months,How Many Believe It To Be SEVEN TO EIGHT Months?, If+A+Poll+Found+That+SIXTY EIGHT+Percent+Of+Republicans+Believe+That+Ivermectin+Is+A+Safe+Covid+Treatment+What+Is+The+Percent+Who+Oppose?,If+The+Margin+Of+Error+Is+SIX AND FIFTY FIVE HUDRETHS+Percent+What+Is+The+Range?,Out+Of+The+THIRTY TWO+Percent+Who+Oppose+Ivermectin+EIGHTY NINE+Percent+Strongly+Oppose+It+Being+Touted+As+A+Cure+How+Many+Mildy+Oppose?]
-Covid Strings Sentence List EIGHT=[covid is so Unpopular It Wouldnt Be Anybodys Third Party Spoiler,Covid Is A Thousandth As Old As The Pythagorean Theorem,Its Crazy That ELEVEN Percent Of Republicans Mildly Oppose Ivermectin,Covid+Is+No+Exception+To+The+Rule+That+Sleep+Helps+Strengthen+Your+Immune+System,Covid+Is+Something+You+Dont+Want+Natural+Immunity+From]
-String.Split   
-Arrays.AsList(List<String>)
-For (String Ss:Arr){
-System.OutprintIn(Ss)
-Import Java Util.Scanner
-Import Java.Util
-Questions[]Questions={
-Collections.Shuffle(Arrays.Aslist(Questions)
-Question .Bonus ONE= (Would The Meaning Of The Sentence CHANGE  Covid Is No Exception To The Rule That Sleep Helps Strengthen Your Immune System If Immune System Was Replaced With Engine Shaft)
-Userin.Select Team
-Import Meta.
-Class MyClass
-Constructor (Non-Concatenated)
-Return Category
-If Category==Math Problem:
-Type Answer
-Else:
-Select From Multiple Choice
-Constmyclass=New.Myclass(Concatenated)
-Return Category
-If Category==Math Problem:
-Type Answer
-Else:
-Select From Multiple Choice
-Import Syntax 
-Substring(Start,End)
-Userin.Multiple Choice
+frame set visible true
+object {a:one, b:two, c:three, d:four, e:five, f:six, g:seven, h:eight}
+keys object keys(team)
+entries object entries(obj);
+value object [team color]
+covidstringsteamlisteight=[blue,pink,red,magenta,orange,black,teal,indigo]
+covidstringsphraselisteight= [non-concatenated,covid trackers can sometimes use peoples personal data against them
+when using a covid tracker safety is one option
+when it comes to the origins of covid knowledge is power
+given the new flu-like virus things may change
+the worst case scenario could happen
+ba286 and hv and jn1 can also cause problems
+mental health impacts can also change
+you dont need web md to tell you covid fatigue is real
+concatenated strings
+if+you+do+have+it+sleep+and+relaxation+are+some+strategies
+any+covid+prescription+is+not+as+good+as+a+lexus+rx
+at+least+it+would+make+you+feel+a+ok
+it+would+also+be+better+than+ivermectin+or+dietary+supplements
+you+can+include+colloidal+silver+too
+uv+light+should+be+safely+eliminated+as+any+treatment
+it+should+be+obvious+that+bleach+is+similarly+ineffective
+bleach+can+be+used+if+it+is+disenfected+on+hard+surfaces]
+covidstringseightmultiplechoicelist=[1:a covid brsv cspanishflu dsanta, 2:a wisely b recklessly c safety d putting money under the bed, 3: a oranges b spread c origins d beginning, 4: a sleep b going back to the office c leaving out milk and cookies d working out, 5: a red solo cup b acura cdx c lexus rx d genesis g sixty,6:a the delta variant b hv and jn1 c donald trumps covid infection d state capture, 7: a mathematically b safely c totally d not at all, 8: a physical b mental c social D covid, 9: a rsv b flu c ebola d mythomagic, 10: a drained b disinfected c sprayed d twisted, 11: a web md b your doctor c donald trump d a mask bonfire, 12: a pyrite  b colloidal silver c anthracite coal d alex jones,13: a worst-case b one involving the russian people not caring about putin c no magic bullet d elites turning on putin,
+14: a ivermectin b ozempic c narcolepsy d ringworm,15: a woozy b a ok c right at home d trumps mugshot, 16: a third party spoiler b way of barring trump from office c solution to help ukraine d taylor swift card,17:a pythagorean theorem b russias lie of not being behind the kakova dam explosion c trumps lies about a rigged election d putins luxury yacht, 18:a circulatory system b reproductive system c immune system d rem sleep,
+19:a natural immunity b a hospital stay c to repeat grades d car accident, 20: a mildly b strongly c dont care d neutral,21:a yes b no]
+covid strings eight math problemslist= [if a poll found that eighty percent of americans believe they get enough sleep to prevent the worst effects of covid how many arent sure?,if the margin of error is three and fourty four hundreths percent what is the range?,if ninety five percent of americans find the nine month effect to be somewhat exaggerated how many dont?,if sixty one percent say it is mildly exaggerated how many believe it is greatly exaggerated?,if fifty eight percent of the sixty one percent say that they believe the effect on the body to be around six months,how many believe it to be seven to eight months?, if+a+poll+found+that+sixty eight+percent+of+republicans+believe+that+ivermectin+is+a+safe+covid+treatment+what+is+the+percent+who+oppose?,if+the+margin+of+error+is+six and fifty five hundreths+percent+what+is+the+range?,out+of+the+thirty two+percent+who+oppose+ivermectin+eighty nine+percent+strongly+oppose+it+being+touted+as+a+cure+how+many+mildy+oppose?]
+covidstringssentencelisteight=[covid is so unpopular it wouldnt be anybodys third party spoiler,covid is a thousandth as old as the pythagorean theorem,its crazy that elven percent of republicans mildly oppose ivermectin,covid+is+no+exception+to+the+rule+that+sleep+helps+strengthen+your+immune+system,covid+is+something+you+dont+want+natural+immunity+from]
+string.split   
+arrays.aslist(list<string>)
+for (string ss:arr)
+system.outprintin(ss)
+java util.scanner
+java.util
+questions[]questions={
+collections.shuffle(arrays.aslist(questions)
+question.bonusone= (would the meaning of the sentence change covid is no exception to the rule that sleep helps strengthen your immune system if immune system was replaced with engine shaft)
+userin.select team
+import meta.
+class myclass
+constructor(non-concatenated)
+return category
+if category==math problem:
+prompt
+log
+else:
+select from multiple choice
+if category=multiple choice:
+select from multiple choice 
+else:
+prompt
+log
+myclass=new.myclass(concatenated)
+return category
+if category==math problem:
+prompt
+log
+else:
+select from multiple choice
+if category=multiple choice:
+select from multiple choice 
+else:
+prompt
+log
+import syntax 
+substring(start,end)
+userin.multiple choice
 if selectedanswer==correct answer:
 return true
 else:
