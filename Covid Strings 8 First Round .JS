@@ -4,7 +4,7 @@ html
 head
 utf eight
 viewport content=width=device-width, initial-scale=one>
-title covid strings eight bracket 
+title covid strings eight  first round bracket 
 style
 head
 body
