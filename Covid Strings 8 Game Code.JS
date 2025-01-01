@@ -1,6 +1,6 @@
 doc.type html
 script
-filename=covid strings eight game code.js
+filename=covid strings 8 game code.js
 java.awt graphics 
 this.img=document.createelement(covid)
 img.src=http://www.google.com/intl/en_com/images/logo_plain.png
@@ -24,6 +24,13 @@ override
 public actionperformed(actionevent e){
 random r= newrandom();
 colorpanel.setbackground(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen)))(rnextint(thirteen))) (rnextint(thirteen))) (rnextint(thirteen))) (rnextint(thirteen)))))
+num teams
+total players= players per team
+if players per team=zero
+return zero
+else 
+return math floor total players/players per team
+teamsgrouping=(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)
 buttonpanel.add(optionbutton);
 optionbutton.add actionlistener(new action listener(){
 override 
@@ -33,8 +40,8 @@ if(multi!=null)
 color panel set.background(multi)
 this.add(buttonpanel, borderlayout.south)
 public static void main(string [] args)
-jframe f = new covid strings eight()
-f.set title(covid strings eight)
+jframe f = new covid strings 8()
+f.set title(covid strings 8)
 f.set default closeoperation(jframe. exit_on_close);
 f.setsize
 f.set visible(true);
@@ -128,5 +135,19 @@ if selectedanswer==correct answer:
 return true
 else:
 return false
+answer checker
+scanner=new scanner(system.in)
+string correct answer
+string useranswer=scanner.nextline()
+if useranswer.equals((correctanswer))
+system.out.print.in(correct)
+else:
+system.out.printin(incorrect)
+scanner.close
+check winner:
+if winner==true:
+log(the winner is)
+if winner==false:
+log(no winner yet) 
 return filename
 
