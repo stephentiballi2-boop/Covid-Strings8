@@ -39,7 +39,7 @@ color m=jcolorchooser.showdialog(funwithgraphics.this,))
 if(multi!=null)
 color panel set.background(multi)
 this.add(buttonpanel, borderlayout.south)
-public static void main(string [] args)
+public static main(string [] args)
 jframe f = new covid strings 8()
 f.set title(covid strings 8)
 f.set default closeoperation(jframe. exit_on_close);
@@ -58,7 +58,7 @@ score+=twenty
 else:
 score-=twenty
 lblscore=document.getelementbyid(lblscore)
-lbl.score.innerHTML=score
+lbl.score.inner html=score
 private j button next button=new jbutton(next)
 nextbutton add.actionlistener(this)
 public actionperformed(action event e) 
@@ -68,8 +68,8 @@ frame set visible true
 object {a:one, b:two, c:three, d:four, e:five, f:six, g:seven, h:eight}
 keys object keys(team)
 entries object entries(obj);
-value object [team color]
-covidstringsteamlisteight=[blue,pink,red,magenta,orange,black,teal,indigo]
+value object=[team color]
+covidstringsteamlisteight=[blue curve crushers,pink covid disease fighters,red protein spikers ,magenta magnetizers ,orange rna messengers ,black night riders,teal terminators,indigo isos]
 covidstringsphraselisteight= [non-concatenated,covid trackers can sometimes use peoples personal data against them
 when using a covid tracker safety is one option
 when it comes to the origins of covid knowledge is power
@@ -139,7 +139,7 @@ answer checker
 scanner=new scanner(system.in)
 string correct answer
 string useranswer=scanner.nextline()
-if useranswer.equals((correctanswer))
+if useranswer.equals(correctanswer)
 system.out.print.in(correct)
 else:
 system.out.printin(incorrect)
@@ -149,5 +149,9 @@ if winner==true:
 log(the winner is)
 if winner==false:
 log(no winner yet) 
+if users team wins covid strings8 
+console log users team wins covid strings8
+else
+return game over
 return filename
 
