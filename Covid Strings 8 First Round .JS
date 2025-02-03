@@ -3,14 +3,18 @@ script
 html 
 head
 utf eight
-viewport content=width=device-width, initial-scale=one>
-title covid strings eight  first round bracket 
-style
+viewport content=width=device-width, initial-scale=one
+title covid strings8 first round bracket 
+div id bracket class bracket div
+script src bracket.js
+link rel= stylesheet href=css
 head
 body
 bracket
 matchup
 solid zero
+padding 
+text align center 
 filename=covid strings eight first round .js
 first round=(highest overall seed ,second highest seed third highest seed first middle seed, second middle seed,  third lowest seed ,second lowest seed,lowest overall seed)
 highest overall seed = 1 seed
