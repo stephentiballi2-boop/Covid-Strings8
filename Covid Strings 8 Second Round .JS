@@ -1,15 +1,25 @@
-doc.type. HTML
+doc.type.html
 script
 html
 head
 utf8
-viewport content=width=device-width, initial-scale=one>
+viewport content=width=device-width, initial-scale=one
 title covidstrings 8 second round bracket
+div id bracket class bracket div
+script src bracket.js
+link rel= stylesheet href=css
+head
+body
+bracket-container{}
+matchup
+solid zero;
+padding 
+text align center 
 filename=covid strings eight second round .js
 highest remaining seed=(greatest remaining num value in covid strings list)
 lowest remaining seed = (lowest remaining num value in covid strings list)
 intermediateseed1=(first middle remaining value in covid strings list)
-intermediateseed2=(second middle remaining value in covid strings list))
+intermediateseed2=(second middle remaining value in covid strings list)
 createround=covid strings eight second round 
 round = document.createelement(div);
 round.classlist.add(round);
