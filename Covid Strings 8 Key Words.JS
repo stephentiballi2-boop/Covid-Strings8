@@ -1,6 +1,6 @@
 doc.type.html
 script
-filename=covid Strings 8 key words.js
+filename=covid strings 8 key words.js
 covid strings 8 key word list=[trackers use personal data,using covid tracker,knowledge is power,relaxation strategies covid prescription,uv light,health impacts change,bleach use hard surfaces,covid fatigue real]
 string=””
 for string in covid strings search word list
