@@ -114,32 +114,46 @@ log
 import syntax 
 team1=lower ranked seed
 team2=the higher seeded opponent
-Points: 10 Points Or 20 Points
-<Subheading.Html>
-Team Stealing
-Steal Points(StealingTeam,VictimTeam,PointsToSteal)
-If(VictimTeam.Points>=PointToSteal)
-VictimTeam.Points-=PointToSteal;
-StealingTeamPoints+=PointsToSteal
-Console.Log([StealingTeam.Name} Stole Points From {Victim Team Name}!)
-Else:
-Console.Log({VictimTeam.Name} Doesnt Have Enough Points To Steal)
-If Teams Final  Answer==Incorrect:
-Opposing Team Steals
-Else:
-Change Covid Strings Matchup  Score
-<Header.Html>
-Advancing Rounds 
-Contains The Criteria For Teams In The Second Round To Advance To The Championship 
+points: 10 points or 20 points
+<subheading.html>
+team stealing
+steal points(stealingteam,victimteam,pointstosteal)
+if(victimteam.points>=pointtosteal)
+victimteam.points-=pointtosteal;
+stealingteampoints+=pointstosteal
+console.log([stealingteam.name} stole points from {victim team name}!)
+else:
+console.log({victimteam.name} doesnt have enough points to steal)
+if teams final  answer==incorrect:
+opposing team steals
+else:
+change covid strings matchup  score
+<header.html>
+advancing rounds 
+contains the criteria for teams in the second round to advance to the championship 
 advanceteams=slice(currentteams)
+<subheading.html>
+result for matchup1
+the code for how to determine the end result of matchup1 of covid strings 
 result=declarewinner(matchup1)
 if highest remaining seed score>=forty:
 console.log(highest remaining seed advances)
 else:
+remain
+if lowest remaining seed score>=forty:
 console.log(lowest remaining seed advances)
+else:
+remain
+<subheading.html>
+result for matchup2
+the code for how to determine the end result of matchup2 of covid strings 
 result=declarewinner(matchup2)
-if intermeidate seed1 score>=forty:
+if intermediate seed1 score>=forty:
 console.log(intermediate seed1 advances)
 else:
+remain
+if intermediateseed2score>=forty:
 console.log(intermediate seed2 advances)
+else:
+remain
 return filename
