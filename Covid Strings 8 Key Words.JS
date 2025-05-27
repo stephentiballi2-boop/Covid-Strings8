@@ -1,15 +1,39 @@
 doc.type.html
+html lang en 
 script
+header=document create.element(header)
+header.style.backgroundcolor=#4caf50
+header.style.color=’white’
+header.style.padding=’10px’
+header.style.textalign=’center’
+header.style.text.fontsize=’24px’
+header.textcontent=’welcome to covid strings8’
+document appendchild(header)
+<header.html>
+heading variables 
+the heading numbers that determine where each heading and subheading go 
+heading1=keywords
+heading2=online references 
+heading3=script templates
 filename=covid strings 8 key words.js
+<header.html>
+keywords
+key search words for covid strings8
 covid strings 8 key word list=[trackers use personal data,using covid tracker,knowledge is power,relaxation strategies covid prescription,uv light,health impacts change,bleach use hard surfaces,covid fatigue real]
 string=””
 for string in covid strings search word list
 select characters
 edit diffuse property
 desired color=green
+<header.html>
+online references 
+links to articles that correspond to phrases in covid strings8
 covid strings8 reference list=[a:malicious covid-19 tracker apps are stealing peoples data (mobilesyrup.com),b:covid risk and tracking tools:how to use them safely -the washington post,c:anthony fauci to testify for house committee investigating origins of covid (msn.com),d:why you should rest if you have covid-19 |time,e:covid-19 drugs:are there any that work?,-mayo clinic,f:comparing covid-19 pills:paxlovid vs.molnupiravir(lagevrio)-goodrx,g:2023 lexus rx 350 review,pricing, & pictures |us news (usnews.com),
 h:does uv light kill coronavirus?facts and myths (healthline.com),i:people who followed covid recommendations more likely to have mental health issues now (msn.com),j:people want to use bleach and antiseptic for covid and are calling us for advice(theconversation.com),k:covid-19  disinfecting with bleach -center for research on ingredient safety (msu.edu),l:covid apathy and fatigue are real.heres how to cope|cnn, m:covid-19 fatigue: what to know (webmd.com),
 n:does colloidal silver work for covid-19? -the atlantic,o:expert warns europe to prepare for worst-case scenario over china outbreak (msn.com),p:doctor describes chinas overwhelmed hospitals verge of collapse(msn.com),q:ivermectin |covid-19 treatment guidelines (nih.gov),r:dietary supplements in the time of covid-19 -health professional fact sheet (nih.gov),s:juice wrld  lucid dreams lyrics |genius lyrics,t:brutal new poll shows trump losing big to biden,even with third party spoiler (msn.com),u:how two high school students solved a 2,000-year-old  math puzzle (msn.com)]
+<header.html>
+script templates
+code for accessing the references
 asset=this app.assets.find()
 template asset resource 
 entity template instantiate
