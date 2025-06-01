@@ -51,6 +51,9 @@ random.button add actionlistener(new action listener)
 override 
 public actionperformed(actionevent e)
 random r= newrandom();
+<header.html>
+background functions
+the functions that lead into the background that are the first things the user will experience
 colorpanel.setbackground(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen)))(rnextint(thirteen))) (rnextint(thirteen))) (rnextint(thirteen))) (rnextint(thirteen)))))
 num teams
 total players= players per team
