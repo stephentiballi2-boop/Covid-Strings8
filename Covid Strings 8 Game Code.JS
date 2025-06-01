@@ -205,7 +205,7 @@ game code part2
 the rest of the game code excluding answer and winner checker includes bonus question
 java util.scanner
 java.util
-questions[]questions={
+questions=total# of questions from covid strings8 [first-championship round] 
 collections.shuffle(arrays.aslist(questions)
 public static main(string []args)
 int number
