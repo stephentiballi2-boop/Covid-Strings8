@@ -20,8 +20,17 @@ filename=covid strings 8 key words.js
 keywords
 key search words for covid strings8
 covid strings 8 key word list=[trackers use personal data,using covid tracker,knowledge is power,relaxation strategies covid prescription,uv light,health impacts change,bleach use hard surfaces,covid fatigue real]
+string manager non-concatenated
+insert string(entity,string)
+entity.element.text=string
+string manager insert string
 string=””
-for string in covid strings search word list
+string manager concatenated
+insert string(entity,string)
+entity.element.text=string
+string manager insert string
+string=””
+for string in covid strings key word list
 select characters
 edit diffuse property
 desired color=green
